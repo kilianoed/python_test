@@ -1,0 +1,977 @@
+Year of arrival at port of disembarkation,Voyage ID,Vessel name,Voyage itinerary imputed principal place of slave purchase (mjbyptimp) ,Voyage itinerary imputed principal port of slave disembarkation (mjslptimp) place,Total embarked,Total disembarked,Captive deaths during crossing,Duration of captives' crossing (in days),Crew at voyage outset
+1835,1355,Maria,Bonny,"Cuba, port unspecified",368,341,27,,24
+1835,1356,Manuelita,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1357,Mariposa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1358,Luisita,"Gold Coast, port unspecified",Havana,284,270,,,
+1835,1359,Andaluz (a) Terrible,São Tomé,Havana,411,369,,,
+1835,1360,San Pedro (Marinero),São Tomé,Havana,411,369,,,
+1835,1361,Julita,"Whydah, Ouidah","Cuba, port unspecified",353,340,13,,24
+1835,1362,Llobregat,"Lagos, Onim",Havana,411,369,,184,
+1835,1363,Tragamillas,Gallinhas,"Cuba, port unspecified",490,444,,,
+1835,1364,Firmeza,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1365,Cazador,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1366,General Laborde,Cabinda,Havana,411,369,,,
+1835,1367,Joven Reina,Congo River,Havana,262,255,7,,17
+1835,1368,Chubasco,Rio Pongo,Havana,275,253,22,,17
+1835,1369,Belencita,"Africa, port unspecified",Havana,411,369,,,
+1835,1370,S Pedro (a) Vengador,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1371,Maria Segunda,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1372,Marte,Loango,Havana,600,403,197,,55
+1835,1373,Socorro,Mozambique,Matanzas,808,660,,,
+1835,1374,Portento,Loango,Havana,411,369,,,
+1835,1375,Bella Ines,São Tomé,"Puerto Rico, port unspecified",307,277,,,
+1835,1376,Francisca,Cabinda,Havana,284,270,,,
+1835,1377,Isabel,Cabinda,Havana,411,369,,,
+1835,1378,Hércules,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1379,Antonica,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1380,Alerta,Cabinda,Havana,690,563,,55,
+1835,1381,Empresa,Gallinhas,Havana,490,444,,,
+1835,1382,Tragamillas,Cabinda,Havana,284,270,,,
+1835,1383,Tita,"Whydah, Ouidah","Cuba, port unspecified",402,393,9,,24
+1835,1384,Tres Tomasas,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1385,General Mina,"Africa, port unspecified",Havana,284,270,,,
+1835,1386,Fênix,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1387,Luisita,Bonny,Havana,284,270,,,
+1835,1388,Feliz Vascongada,Bonny,Havana,284,270,,,
+1835,1389,Numero Uno (a) Rosalia,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1390,Diligência,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1391,Matilde,"Africa, port unspecified",Havana,735,700,,,
+1835,1392,General Mina,São Tomé,Havana,284,270,,,
+1835,1393,Flor de la Mar,Princes Island,Havana,284,270,,,
+1835,1394,Mariposa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1395,Mismo (a) Centinela,São Tomé,Havana,284,270,,,21
+1835,1396,Amália,Congo River,Havana,207,200,7,,19
+1835,1397,Alcatraz,São Tomé,Havana,284,270,,,
+1835,1398,Três Manoelas,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1399,Severo,Congo River,Havana,411,369,,,
+1835,1400,Amable Salomé,São Tomé,Havana,284,270,,,
+1835,1401,Cristineta,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1835,1402,Fortuna,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1835,1403,Diligência,Mayumba,Havana,210,120,90,57,25
+1835,1404,Pronta,São Tomé,Havana,284,270,,,
+1835,1405,Catalana,São Tomé,Havana,481,430,,,
+1835,1406,Mosca,"Africa, port unspecified",Havana,284,270,,,
+1835,1407,Deseada,"Africa, port unspecified",Havana,284,270,,,
+1835,1408,San Pedro (a) Vengador,"Sierra Leone, port unspecified","Cuba, port unspecified",284,270,,,
+1835,1409,Tragamillas (Correo Numero 1),Gallinhas,Havana,284,270,,,
+1835,1410,Josefina,"Bight of Benin, place unspecified","Cuba, port unspecified",307,277,,,
+1835,1411,Gazeta,"Africa, port unspecified",Matanzas,307,277,,,
+1835,1412,Carmen,"Africa, port unspecified",Matanzas,535,440,,,
+1835,1413,Pronto,"Africa, port unspecified",Matanzas,490,444,,,
+1835,1414,Estrella Cubana,"Africa, port unspecified",Santiago de Cuba,307,277,,,
+1835,1415,Dos Hermanos,"Africa, port unspecified",Santiago de Cuba,490,444,,,
+1835,1416,Dos Hermanos,"Africa, port unspecified",Santiago de Cuba,307,277,,,
+1835,1417,Aquila Vengadora,"Africa, port unspecified",Trinidad de Cuba,490,444,,,
+1835,1418,Feliz,"Africa, port unspecified",Matanzas,535,440,,,
+1835,1419,General Laborde,"Africa, port unspecified",Trinidad de Cuba,307,277,,,22
+1835,1421,Amizade Feliz,Ambriz,Rio de Janeiro province,372,340,,,
+1835,1422,Angélica,Ambriz,Rio de Janeiro province,352,317,,,
+1835,1423,Continente,"Africa, port unspecified",São Sebastião,69,62,,,
+1835,1424,Aventura,Luanda,São Sebastião,66,60,,,
+1835,1425,Novo Destino,"Africa, port unspecified",São Sebastião,281,257,,,
+1835,1426,Órion,Luanda,Rio de Janeiro,261,245,,,12
+1835,1427,,"Africa, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",365,300,,,
+1835,1435,S Joãozinho,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",307,277,,,
+1835,1436,General Saldanha,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,,
+1835,1437,Elisa,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",307,277,,,
+1835,1439,Esperanza Oriental,"West Central Africa and St. Helena, port unspecified",Montevideo,392,350,,,
+1835,1440,Oriental,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",401,367,,,
+1835,1441,Simpatia,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,,
+1835,1442,Africana,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,,
+1835,1443,Delfina Dáfine,"West Central Africa and St. Helena, port unspecified",Maldonado,359,320,,,
+1835,1444,Jovem Africano,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,,
+1835,1445,Paquete Africano (a) César Augusto,Lourenço Marques,"Rio de Janeiro, Sao Paulo, Santa Catarina",269,221,,,17
+1836,1446,Ninfa (a) Matanzera,Calabar,Matanzas,518,433,85,59,27
+1836,1447,Maria Teresa,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1448,Isabella Segunda,Ambriz,"Cuba, port unspecified",490,444,,,49
+1836,1449,Socorro,Mozambique,Havana,800,605,195,,
+1836,1450,Jacinto,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1451,Bela Ines,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1452,Atenas,"Africa, port unspecified","Cuba, port unspecified",617,542,,,
+1836,1453,Alerta,"Africa, port unspecified","Cuba, port unspecified",617,542,,,
+1836,1454,Mercedita,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1455,Isabel,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1456,Dido,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1457,Carmen,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1458,Ramoncito,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1459,S Pedro (a) Marinero,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1460,Belencita,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1461,Francisca,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1462,Zafiro (a) Ricomar,"Whydah, Ouidah","Cuba, port unspecified",381,369,12,54,
+1836,1463,Llobregat,Porto Novo,"Cuba, port unspecified",490,444,,,
+1836,1464,Isabelita,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1465,Manuelita,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1466,Urraca,"Africa, port unspecified","Cuba, port unspecified",376,335,,,
+1836,1467,Clarita,"Whydah, Ouidah",Havana,381,300,81,,
+1836,1468,Atalaya,"Africa, port unspecified",Havana,284,270,,,
+1836,1469,Empresa,Luanda,"Cuba, port unspecified",450,412,38,,26
+1836,1470,Casimiro,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1471,Elisa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1472,Prova,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1473,Triunfo,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1474,Cristina,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1475,Escorpião,Gallinhas,"Cuba, port unspecified",278,245,,,
+1836,1476,Tres Manuelas,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1477,Liberal,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1478,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1479,Preciosa,Rio Pongo,"British Honduras, port unspecified",295,287,8,33,17
+1836,1480,Galgo,Princes Island,Havana,607,550,,,
+1836,1481,Maria Teresa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1482,Empresa,Congo River,"Bahamas, port unspecified",450,434,16,89,23
+1836,1483,Fênix,Popo,"Grenada, place unspecified",515,484,31,,27
+1836,1484,Negrita (a) Negrinha,Gallinhas,"Grenada, place unspecified",340,336,4,54,16
+1836,1485,Constituição,"Africa, port unspecified",Havana,307,277,,,
+1836,1486,Manuelita,São Tomé,Havana,523,471,,,35
+1836,1487,Especulacion,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1488,Traga Milhas,Gallinhas,"Cuba, port unspecified",307,277,,,
+1836,1489,Terpsicore,"Africa, port unspecified","Cuba, port unspecified",298,270,,,
+1836,1490,Egerida,Mozambique,"Cuba, port unspecified",490,444,,,
+1836,1491,Maria Segunda,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1492,Francisca,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1836,1493,Socorro,Mozambique,Havana,800,700,100,,65
+1836,1494,General Laborde,"Africa, port unspecified",Trinidad de Cuba,334,300,,,22
+1836,1495,Vencedora,Congo River,Rio de Janeiro,257,241,,34,
+1836,1496,Perfídia,Luanda,Rio de Janeiro,617,542,,40,21
+1836,1497,Firmeza,Ambriz,Rio de Janeiro,490,444,,39,13
+1836,1498,Tejo,Luanda,Rio de Janeiro,490,444,,36,14
+1837,1499,Tratado,"Africa, port unspecified",Sagua,351,316,,,19
+1836,1500,,"Africa, port unspecified",Sagua,250,206,,,
+1836,1501,D Maria Segunda,Luanda,Rio de Janeiro,411,369,,,
+1836,1502,Ersínia,Benguela,Rio de Janeiro,307,277,,,
+1836,1503,Portuense,Luanda,Rio de Janeiro,411,369,,,
+1836,1504,Vinte e Seis de Maio,Luanda,Rio de Janeiro,401,367,,,
+1836,1505,Caridade,Luanda,Rio de Janeiro,307,277,,,
+1836,1506,Ontário,Luanda,Rio de Janeiro,411,369,,,
+1836,1507,Luísa,Luanda,Rio de Janeiro,118,105,,,
+1836,1508,Lealdade,Luanda,Rio de Janeiro,307,277,,,
+1836,1509,Eugênia,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro,490,444,,52,25
+1836,1510,Águia,Luanda,Rio de Janeiro,281,257,,,
+1836,1511,Doze de Outubro,Benguela,Rio de Janeiro,411,369,,,
+1836,1512,Pompeo,Luanda,Rio de Janeiro,411,369,,,
+1836,1513,Júpiter,Luanda,Rio de Janeiro,307,277,,,
+1836,1514,Triunfo,Luanda,Ilha de Lobes,359,325,,,
+1836,1515,Brilhante,Quilimane,São Sebastião,400,325,75,,
+1836,1516,Jacuí,Luanda,Rio de Janeiro,311,284,,,11
+1836,1517,Minerva,Luanda,Ilha Grande,352,317,,,11
+1836,1518,Brilhante,Quilimane,Campos,450,408,,,
+1836,1519,Aventura,Luanda,Campos,472,428,,,15
+1836,1520,Aventureira,Luanda,Taipu,438,397,,,13
+1836,1521,D Joana,Ambriz,Ponta Negro,314,283,,,8
+1836,1522,Silêncio,Luanda,"Americas, region unspecified",482,437,,,15
+1836,1523,Flor do Rio,Luanda,Ilha Grande,352,314,,,13
+1836,1524,S Joãozinho,Luanda,Ubatuba,317,285,,,10
+1836,1525,Generozo,"West Central Africa and St. Helena, port unspecified",Campos,375,340,,,15
+1836,1526,Temerário,Luanda,Ubatuba,461,418,,,13
+1836,1527,Vinte Quatro de Julho,Mozambique,São Sebastião,800,500,300,,16
+1836,1528,Leal Português,"West Central Africa and St. Helena, port unspecified","Pernambuco, place unspecified",350,150,200,,
+1836,1529,Feiticeira,Luanda,"Pernambuco, place unspecified",442,400,,,
+1836,1530,Quatro de Agosto,"Africa, port unspecified","Pernambuco, place unspecified",411,369,,,
+1836,1531,Formiga,Luanda,"Pernambuco, place unspecified",333,300,,,
+1836,1532,Pizarro,"Africa, port unspecified",Pôrto Seguro,411,369,,,
+1837,1533,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1534,,"Africa, port unspecified","Cuba, port unspecified",411,369,,,
+1837,1535,Jacinto,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1536,Cavalo Marinho,"Africa, port unspecified","Cuba, port unspecified",617,542,,,56
+1837,1537,Duquesa de Bragança,"Africa, port unspecified","Cuba, port unspecified",535,440,,,
+1837,1538,,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1539,,"Africa, port unspecified","Cuba, port unspecified",617,542,,,
+1837,1540,Prova,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1541,Margarete,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1542,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1543,,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1544,Josefina,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1836,1545,Carlota (a) Mosquito,"Whydah, Ouidah","British Honduras, port unspecified",208,203,5,,
+1837,1546,Luísa,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1547,Tejo,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1549,Ligeira,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1550,Dulcinéa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1551,Aguila Vengadora,Mozambique,Havana,411,369,,,
+1837,1552,Felicidade,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1553,Elisa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1554,Camões,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1555,Liberal,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1556,Primorosa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1558,Forest,"Africa, port unspecified","Cuba, port unspecified",489,423,,,
+1837,1559,Dois Irmãos,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1560,Vitória de Cabo Verde,Princes Island,"Cuba, port unspecified",307,277,,,
+1837,1561,Sereia,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1562,Paquete de Cabo Verde,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1563,Diligente,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1564,Hércules,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1565,Triunfo,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1837,1566,Maria Teresa,"Lagos, Onim",Havana,490,444,,,
+1837,1567,Ligeiro,"Africa, port unspecified","Cuba, port unspecified",467,420,,,
+1837,1568,Destemida,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1569,Antonica,Congo River,"Bahamas, port unspecified",206,185,,56,19
+1837,1570,Ingemane,"Africa, port unspecified",Havana,91,82,,,
+1837,1571,Primera Union,Senegambia or Sierra Leone,Havana,284,270,,,
+1837,1572,Feliz,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1573,Dido,"Africa, port unspecified",Havana,472,450,,,
+1837,1574,Boca Negra,"Africa, port unspecified",Sagua,442,400,,,
+1837,1575,D Manoel de Portugal,Luanda,Rio de Janeiro,600,527,73,44,12
+1837,1576,Jove,Luanda,São Sebastião,374,335,,,
+1837,1577,Andorinha,Benguela,São Sebastião,349,312,,38,12
+1837,1578,Flor de Luanda,Luanda,São Sebastião,330,297,,32,12
+1837,1579,Luísa,Luanda,São Sebastião,321,287,,,
+1837,1580,Dois de Abril,Luanda,Campos,332,297,,32,10
+1837,1581,Adamastor,Quilimane,Santos,800,496,304,,
+1837,1582,Elisa,Luanda,Parati,377,337,,37,9
+1837,1583,Leão,Luanda,Campos,678,614,,70,12
+1837,1584,Rio Tua,Luanda,Ilha Grande,358,319,,35,9
+1837,1585,Diligência,Luanda,Macaé,524,475,,27,12
+1837,1586,Leão,Quilimane,Ilha de Marambaia,855,572,283,,
+1837,1587,Flor de Quilimane,Quilimane,Campos,860,697,163,77,13
+1837,1588,Mercúrio,Luanda,Ilha das Palmas,565,512,,34,16
+1837,1589,Henriqueta,Luanda,Rio de Janeiro,288,263,,33,12
+1837,1590,Jeová,Luanda,Taipu,574,520,,40,13
+1837,1591,Ceres,Mozambique,Rio de Janeiro,450,408,,85,16
+1837,1592,Constante,Luanda,Campos,766,694,,42,14
+1837,1593,Paquete de Luanda,Luanda,São Sebastião,434,393,,38,16
+1837,1594,Dois Irmãos,Luanda,Campos,574,520,,40,11
+1837,1595,Asseiceira,"West Central Africa and St. Helena, port unspecified",Maricá,460,417,,35,14
+1837,1596,Carolina,Quilimane,Ubatuba,1077,976,,70,24
+1837,1597,Lealdade,Luanda,Ponta Negro,359,321,,,13
+1837,1598,Zenóbia,Benguela,Maricá,349,319,,38,6
+1837,1599,Dois de Outubro,Benguela,Parati,566,513,,38,9
+1837,1600,Ligeira,Benguela,Mangaratiba,457,411,,70,12
+1837,1601,Resolução,Luanda,Taipu,784,710,,51,14
+1837,1602,Triunfante,Luanda,Rio de Janeiro,358,322,,50,12
+1837,1603,Esperança,"West Central Africa and St. Helena, port unspecified",Maricá,341,304,,,12
+1837,1604,Dois Amigos,Luanda,Macaé,507,459,,,15
+1837,1605,General Cabreira,Luanda,Rio de Janeiro,372,337,,,14
+1837,1606,Felicidade,Luanda,Taipu,378,340,,,15
+1837,1607,Ontário,Luanda,São Sebastião,372,337,,,22
+1837,1608,Jovem Africana,Luanda,Ponta Negro,344,312,,,15
+1837,1609,Vênus,Mozambique,Macaé,812,664,,,15
+1837,1610,Esperança,Benguela,Campos,538,487,,,14
+1837,1611,S Domingos Enéas,Luanda,Ponta Negro,522,473,,,15
+1837,1612,Aleide,"Africa, port unspecified","Pernambuco, place unspecified",508,460,,,
+1837,1613,Harmonia,"Africa, port unspecified",Paranaguá,678,614,,,
+1837,1614,Flor de Luanda,Luanda,Campos,471,427,,,9
+1837,1615,Ribeira Nova,Luanda,Ponta Negro,277,253,,,12
+1837,1616,Antenor,Luanda,Ponta Negro,704,638,,,17
+1837,1617,Feliz,Princes Island,São Sebastião,340,304,,,14
+1837,1618,Josefina,Luanda,Campos,467,420,,,16
+1837,1619,Relâmpago,São Tomé,São Sebastião,394,357,,,
+1837,1620,Tejo,Quilimane,Campos,462,419,,,
+1837,1621,Eugênia,Luanda,Ilha de Itamaric ,416,377,,,
+1837,1622,Francisca (a) Estela,Benguela,Mariel,307,277,,,
+1837,1623,Ligeira,Princes Island,"Cuba, port unspecified",307,277,,,
+1837,1624,Vencedora,Coanza River,"Cuba, port unspecified",29,26,,,14
+1837,1625,Manoelita,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1626,Dois Irmãos,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1627,Olímpia,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1628,Name,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1629,Veloz,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1630,Maria Teresa,"Lagos, Onim",Havana,307,277,,,
+1837,1631,Matilde,Ambriz,"Cuba, port unspecified",272,259,13,,35
+1837,1632,Constituição,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1633,Maria Segunda (a) Socorro,Mozambique,"Cuba, port unspecified",700,509,191,,60
+1837,1634,Palmira,Mozambique,"Cuba, port unspecified",650,589,,,30
+1837,1635,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1636,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1637,Carlota,Mozambique,"Cuba, port unspecified",500,453,,,
+1837,1638,Vigilante,"Africa, port unspecified",Santiago de Cuba,20,18,,,
+1838,1639,,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1640,Josefina,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1641,Maria Segunda,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1642,Felicidade,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1837,1643,Andorinha,Benguela,Ponta Negro,333,300,,,11
+1837,1644,Firmeza,Luanda,Campos,347,317,,,11
+1837,1645,Margarida,Luanda,Mangaratiba,365,334,,,
+1837,1646,Florinda de Africa,Luanda,Paranaguá,365,327,,,
+1837,1647,Jacuí,Luanda,Mangaratiba,351,314,,,12
+1837,1648,Flor do Rio,Congo River,São Sebastião,349,314,,,15
+1837,1649,Aperceira,Luanda,Paranaguá,482,437,,,
+1837,1650,D Manoel de Portugal,Luanda,Maricá,525,476,,,
+1837,1651,Terceira,Luanda,Rio de Janeiro province,373,334,,,9
+1837,1652,Diligente,Benguela,Rio de Janeiro,338,304,,,17
+1837,1653,Brilhante,Ambriz,Rio de Janeiro province,529,479,,,16
+1837,1654,Antônio,Luanda,Taipu,571,517,,,19
+1837,1655,Novo Destino,Quilimane,Macaé,747,677,,,17
+1837,1656,Ninfa,Luanda,Taipu,947,852,,,15
+1837,1657,Arsênia,"West Central Africa and St. Helena, port unspecified",São Sebastião,535,477,,,
+1837,1658,Angerona,Luanda,Ponta Negro,373,336,,,11
+1837,1659,Dois de Fevereiro,Luanda,Ponta Negro,594,538,,,18
+1837,1660,Henriqueta,Cap Lopez,Campos,349,319,,,
+1837,1661,Quatro de Março,Quilimane,Rio de Janeiro province,1050,950,100,,10
+1837,1662,Saudade,Mozambique,Taipu,677,613,,,14
+1837,1663,Virtude,Luanda,Ponta Negro,383,350,,,19
+1837,1664,Liberal,Luanda,São Sebastião,389,348,,,13
+1837,1665,Lusitano,Mozambique,Campos,883,800,,,17
+1837,1666,Esperança,Luanda,Ponta Negro,424,382,,,18
+1837,1667,Dois de Abril,Luanda,Copacabana,316,283,,,8
+1837,1668,Triunfante,Mozambique,Campos,786,712,,,17
+1837,1669,Josefina,Benguela,Rio de Janeiro province,333,300,,60,11
+1837,1670,Triunfo da Inveja,Quilimane,Campos,898,814,,,18
+1837,1671,Rio Tua,"West Central Africa and St. Helena, port unspecified",São Sebastião,336,304,,117,
+1837,1672,Maria Segunda,Luanda,Campos,632,573,,,11
+1837,1673,Veloz,Luanda,Baía de Sepetiba,753,682,,,15
+1838,1674,Con La Boca,Sherbro,St. Thomas,307,277,,,
+1838,1675,Feliz Constância,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1838,1676,Tres de Febrero,Luanda,Santiago de Cuba,167,150,,,
+1838,1677,Vitória,Bonny,Santiago de Cuba,319,263,,,
+1838,1678,Amélia,Mozambique,"Cuba, port unspecified",658,607,,76,35
+1838,1679,Dulcinéa,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1680,,"Africa, port unspecified","Cuba, port unspecified",289,250,,,
+1838,1681,Goliubchick,"Africa, port unspecified",Matanzas,340,306,,,
+1838,1682,Matilde,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1838,1683,Dois Amigos,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1684,Serafina,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1838,1685,Feliz Triunvirato,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1686,Diligente,"Africa, port unspecified",Havana,583,480,,,
+1838,1687,Oposicão,Congo River,Havana,416,382,,,17
+1838,1688,Camões,"Lagos, Onim","Bahamas, port unspecified",598,569,,55,35
+1838,1689,Segunda União,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1690,Buen Viaje,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1691,Constantia,"Africa, port unspecified","Cuba, port unspecified",307,277,,,
+1838,1692,Veloz,"Africa, port unspecified","Cuba, port unspecified",311,279,,,
+1838,1693,Aquila Vengadera (a) Esplora,Mozambique,"Cuba, port unspecified",560,200,360,,35
+1838,1694,Irena,Mozambique,Havana,650,619,,,40
+1838,1695,Josefa,São Tomé,"Cuba, port unspecified",490,444,,,
+1838,1696,Ligeira,Princes Island,"Cuba, port unspecified",307,277,,,
+1838,1697,Fortuna,"Lagos, Onim","Cuba, port unspecified",490,444,,,
+1838,1698,Ligeiro,Rio Pongo,"Cuba, port unspecified",490,444,,,
+1838,1699,Elisa,"Africa, port unspecified","Cuba, port unspecified",303,271,,,
+1838,1700,Empreendedor,Gallinhas,Trinidad de Cuba,447,250,197,,
+1838,1701,Tirso,Cape Verde Islands,Trinidad de Cuba,307,277,,,
+1838,1702,Tirso,Madagascar,Trinidad de Cuba,490,444,,,
+1838,1703,Rosália,"Africa, port unspecified",Trinidad de Cuba,330,272,,,
+1838,1704,Vitória,"Africa, port unspecified",Matanzas,307,277,,,
+1838,1709,Vigilante,"Africa, port unspecified","Cuba, port unspecified",552,500,,,
+1838,1710,Gabriel (a) Dois Amigos,Bimbia,"Cuba, port unspecified",410,340,70,,
+1838,1711,Ala,"Africa, port unspecified","Cuba, port unspecified",222,200,,,
+1838,1712,Salomé,Gallinhas,"Cuba, port unspecified",327,253,74,,
+1838,1713,Lavandeira,Rio Pongo,Guanimar,222,200,,,
+1838,1714,Palmela,"Africa, port unspecified","Cuba, port unspecified",490,444,,,
+1838,1715,Montana Al Montauhesa,"Africa, port unspecified","Cuba, port unspecified",237,213,,,
+1838,1716,Provisional (a) Sin Igual,"Lagos, Onim","Cuba, port unspecified",328,240,88,40,
+1838,1717,Constância,Gallinhas,"Cuba, port unspecified",237,213,,,
+1838,1718,Teresa,"Africa, port unspecified","Cuba, port unspecified",397,360,,,
+1838,1719,Amália,"Africa, port unspecified",Trinidad de Cuba,222,200,,,
+1838,1720,NS da Boa Viagem,"Africa, port unspecified","Cuba, port unspecified",237,213,,,
+1838,1721,Escorpião (a) Voador,"Africa, port unspecified",Santiago de Cuba,297,269,,,
+1838,1722,Flor de Luanda,Cabinda,Maricá,321,289,,55,16
+1838,1723,César,Ambriz,Maricá,260,207,53,,
+1838,1724,Brilhante,Ambriz,Rio de Janeiro,250,250,0,34,
+1838,1725,Dois Amigos,Quilimane,Baía de Sepetiba,786,712,,,
+1838,1726,Júpiter,Luanda,Ilha Grande,418,373,,,
+1838,1727,Generoso,Quilimane,Baía de Sepetiba,883,800,,,
+1838,1728,Doze de Outubro,Luanda,Copacabana,358,322,,,
+1838,1729,Inocente,Luanda,Taipu,470,419,,,
+1838,1730,Fortuna da África,Mozambique,Rio de Janeiro province,759,712,,,
+1838,1731,Pompeo,Luanda,Copacabana,464,420,,,16
+1838,1732,Silêncio,"West Central Africa and St. Helena, port unspecified",Macaé,565,504,,,16
+1838,1733,Leão,Benguela,Rio de Janeiro,662,600,,,
+1838,1734,Águia,Luanda,Campos,528,473,,,
+1838,1735,Maria Carlota,Luanda,Rio de Janeiro,915,829,,,
+1838,1736,Príncipe Agosto,Cabinda,Ponta Negro,773,700,,,
+1838,1737,Carolina,Quilimane,Campos,1159,1050,,,
+1838,1738,Aventureiro,Luanda,Ilha Grande,607,550,,,
+1838,1739,Adamastor,Quilimane,São Sebastião,482,445,,,
+1838,1740,Resolução,Mozambique,Ilha Grande,773,700,,,
+1838,1741,Carolina,Luanda,Rio de Janeiro province,311,280,,,
+1838,1742,,Luanda,Ilha Grande,659,597,,,
+1838,1743,General Cabreira,Luanda,Baía de Sepetiba,372,337,,,
+1838,1744,Jeová,Luanda,Ilha Grande,478,433,,,
+1838,1745,Marquês de Pombal,Luanda,Ilha de Paquetá ,107,97,,,
+1838,1746,Cingapura,Luanda,Ponta Negro,745,675,,,
+1838,1747,Duas Irmãs,Luanda,Macaé,362,328,,,
+1838,1748,Paquete de Luanda,Congo River,Ilha Grande,352,314,,,
+1838,1749,Cintra,Mozambique,São Sebastião,827,756,,,
+1838,1750,Andorinha,Benguela,Taipu,330,297,,,
+1838,1751,,Luanda,Ponta Negro,340,304,,,
+1838,1752,Feliz,Princes Island,Baía de Botafogo,354,321,,,
+1838,1753,Oito de Dezembro,Benguela,Ilha Grande,382,342,,,
+1838,1754,Felicidade,Luanda,São Sebastião,355,322,,,
+1838,1755,Especulador,Benguela,Ilha Grande,345,309,,,
+1838,1756,Esperança,Cabinda,Ilha Grande,442,400,,,
+1838,1757,Jove,Quilimane,Campos,483,432,,,
+1838,1758,Relâmpago,Congo River,Rio de Janeiro,419,380,,,
+1838,1759,Angerona,Luanda,Copacabana,371,334,,,
+1838,1760,Brilhante,Luanda,Macaé,449,407,,,
+1838,1761,Providência,Mozambique,Ilha Grande,472,422,,,
+1838,1762,Comodoro,Quilimane,Taipu,425,385,,,18
+1838,1763,Rosa,Luanda,Rio de Janeiro province,99,90,,,
+1838,1764,Dois de Fevereiro,Luanda,Macaé,358,324,,,
+1838,1765,Veloz,Luanda,Ponta Negro,524,475,,,
+1838,1766,Tentador,Luanda,Rio de Janeiro,345,313,,,
+1838,1767,Asseiceira,Cabinda,Rio de Janeiro province,442,400,,,16
+1838,1768,Júpiter,Cabinda,Rio de Janeiro province,481,436,,,
+1838,1769,Belona,Congo River,Campos,416,374,,,
+1838,1770,Dois de Abril,Congo River,São Sebastião,533,477,,,
+1838,1771,Arsênia,Cabinda,Ilha Grande,561,500,,,
+1838,1772,General Cabreira,Luanda,Ponta Negro,166,150,,,
+1838,1773,Josefina,Benguela,Rio de Janeiro,383,345,,,
+1838,1774,Palas,"Africa, port unspecified",Taipu,578,516,,,
+1838,1775,Inocente,Luanda,Ilha Grande,355,317,,,
+1838,1776,Maria Segunda,"Africa, port unspecified","Cuba, port unspecified",240,216,,,
+1838,1777,Chiva,"Africa, port unspecified","Cuba, port unspecified",156,140,,,
+1838,1778,Cerca,"Africa, port unspecified",Matanzas,307,277,,,
+1838,1779,Escorpião,Mayumba,"Bahamas, port unspecified",212,212,0,57,
+1838,1780,Trovão,Princes Island,"Cuba, port unspecified",587,528,,,
+1839,1781,Amália (a) Caballo Marino,Mozambique,Mariel,710,510,200,,
+1839,1782,Dichosa,Luanda,"Cuba, port unspecified",244,220,,,
+1839,1783,Vênus (a) Duquesa de Bragança,Mozambique,Havana,1120,870,250,,
+1839,1784,Josefina,"Lagos, Onim","Cuba, port unspecified",252,227,,,
+1839,1785,Brilhante,"Africa, port unspecified",Santiago de Cuba,259,233,,,
+1839,1786,Segunda União,Princes Island,"Cuba, port unspecified",191,172,,,
+1839,1787,Havre,"Africa, port unspecified","Cuba, port unspecified",596,540,,,
+1839,1788,Felicidade,"Africa, port unspecified",Havana,262,250,,,
+1839,1789,Primogenito,"Africa, port unspecified","Cuba, port unspecified",567,467,,,
+1839,1790,Felicidade,"Africa, port unspecified","Cuba, port unspecified",493,447,,,
+1839,1791,Matilde,"Africa, port unspecified","Cuba, port unspecified",327,296,,,
+1839,1792,La Bandeira,Gallinhas,Havana,254,229,,,
+1839,1793,Elisa,Cape Verde Islands,"Cuba, port unspecified",129,116,,,
+1839,1794,Socorro (a) D Maria Segunda,Mozambique,Havana,820,570,250,,
+1839,1795,Ulisses,"Whydah, Ouidah","Cuba, port unspecified",290,263,,,
+1839,1796,Ligeira,"Lagos, Onim","Cuba, port unspecified",307,277,,,
+1839,1797,Constituição,"Africa, port unspecified","Cuba, port unspecified",237,213,,,
+1839,1798,Josefina,"Africa, port unspecified","Cuba, port unspecified",261,235,,,
+1839,1799,Liberal,"Africa, port unspecified","Cuba, port unspecified",284,257,,,
+1839,1800,Libertad (a) Victoria,"Africa, port unspecified",Matanzas,312,280,,,
+1838,1801,Diligente,Benguela,Rio de Janeiro,302,302,0,152,15
+1838,1802,Feliz,Benguela,Rio de Janeiro,242,235,7,,
+1838,1803,Jovem Luísa,"Africa, port unspecified",Sagua,323,291,,,
+1838,1804,Madalena,"Africa, port unspecified",Sagua,243,219,,,
+1838,1805,Esperança,Princes Island,Sagua,467,420,,,
+1838,1806,General Espartero,Princes Island,Sagua,506,455,,,
+1838,1807,Triunfo de Luanda,"Africa, port unspecified",Sagua,384,345,,,
+1838,1808,Escorpião,"Africa, port unspecified",Sagua,304,273,,,
+1838,1809,Esperança,"Africa, port unspecified",Sagua,478,430,,,
+1838,1810,Henriqueta,"Africa, port unspecified",Sagua,144,130,,,
+1838,1811,Brilhante,"Windward Coast, place unspecified",Sagua,267,240,,,
+1838,1812,Maria Segunda,Luanda,Baía de Sepetiba,466,417,,,
+1838,1813,Maria Virgínia,São Tomé,São Sebastião,442,394,,,
+1838,1814,Novo Destino,Quilimane,Campos,787,713,,,
+1838,1815,Almeida,Luanda,Rio de Janeiro,556,504,,,
+1838,1816,Firmeza,Congo River,Ponta Negro,524,475,,,
+1838,1817,Onze de Novembro,Luanda,Ilha Grande,501,454,,,
+1838,1818,Prontidão,São Tomé,Ilha Grande,662,600,,,
+1838,1819,Ganges,Quilimane,Ponta Negro,796,721,,,
+1838,1820,Pensamento Feliz,Benguela,Ponta Negro,351,321,,,
+1838,1821,Valoroso,Luanda,Copacabana,85,77,,,
+1838,1822,Rosalina,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro,467,417,,,
+1838,1823,Lealdade,Luanda,Rio de Janeiro,399,357,,,
+1838,1824,Flor de Luanda,Luanda,Rio de Janeiro,423,377,,,
+1838,1825,Esperança,Cabinda,Rio de Janeiro,673,600,,,
+1838,1826,Treze de Junho,Benguela,Baía de Botafogo,303,285,,,
+1838,1827,Generoso Feliz,Quilimane,Ilha Grande,800,725,,,
+1838,1828,Zenóbia,Luanda,Baía de Botafogo,326,298,,,
+1838,1829,Minerva,Luanda,Ponta Negro,338,304,,,
+1838,1830,Andorinha,Luanda,Baía de Botafogo,326,293,,,
+1838,1831,Flor do Rio,Cabinda,Ponta Negro,463,413,,,
+1838,1832,Dois Irmãos,Luanda,Ilha Grande,632,573,,,
+1838,1833,Triunfo,Luanda,Campos,340,304,,,
+1838,1834,Pompeo,Congo River,São Sebastião,573,519,,,
+1838,1835,Fortuna,Quilimane,Campos,664,602,,,
+1838,1836,Triunfo da Inveja,Quilimane,Rio de Janeiro,795,720,,,
+1838,1837,Quatro de Março,Quilimane,Ponta Negro,883,800,,,
+1838,1838,Ligeiro,Benguela,Rio de Janeiro,234,209,,,
+1838,1839,Giobe,Benguela,Rio de Janeiro,497,450,,,
+1838,1840,Antenor,Luanda,Rio de Janeiro,662,600,,,
+1838,1841,Jacuí,Benguela,Rio de Janeiro province,307,277,,,
+1838,1842,Dois de Fevereiro,Luanda,Rio de Janeiro,442,400,,,
+1838,1843,Mercúrio,Luanda,Rio de Janeiro,386,350,,,
+1838,1844,Ontário,Luanda,Rio de Janeiro province,497,450,,,
+1838,1845,Ascânio,Cabinda,Campos,423,380,,80,
+1838,1846,Rio Frio,Luanda,Macaé,434,390,,,
+1838,1847,Fortuna da África,Mozambique,Campos,475,430,,,
+1838,1848,Relógio,Luanda,Rio de Janeiro,478,433,,,
+1839,1849,Relógio,Luanda,Rio de Janeiro,478,433,,,
+1839,1850,Relógio,Luanda,Rio de Janeiro,478,433,,,
+1839,1851,Sin Igual,"Africa, port unspecified","Cuba, port unspecified",373,335,,,
+1839,1852,Ligeira,Cape Verde Islands,"Cuba, port unspecified",259,233,,,
+1839,1853,Macsismo,Mozambique,"Cuba, port unspecified",400,360,,,
+1839,1854,Vitória,"Africa, port unspecified","Cuba, port unspecified",315,283,,,
+1839,1855,Trindade de Luanda (a) Triunfo de Luanda,Mozambique,"Cuba, port unspecified",490,444,,,
+1839,1856,Serra do Pilar,"Lagos, Onim",Isla de Pinas,255,198,57,78,
+1839,1857,Dois Amigos,São Tomé,"Cuba, port unspecified",459,413,,,
+1839,1858,Josefina,Congo River,"Cuba, port unspecified",267,240,,,
+1839,1859,Astrea,"Lagos, Onim","Cuba, port unspecified",489,440,,,
+1839,1860,Caridad Cubana,Bissau,"Jamaica, place unspecified",175,174,1,27,10
+1839,1861,Madalena,"Africa, port unspecified","Cuba, port unspecified",204,184,,,
+1839,1862,Fortuna (a) Llobregat,"Lagos, Onim","Cuba, port unspecified",386,350,,,
+1839,1863,Felicidad,São Tomé,"Cuba, port unspecified",490,444,,,
+1839,1864,Octavia,Popo,"Cuba, port unspecified",489,423,,,
+1839,1865,Porto Formoso (a) Elvira,São Tomé,"Cuba, port unspecified",307,277,,,
+1839,1866,Recurso,São Tomé,"Cuba, port unspecified",307,277,,,
+1839,1867,Montana,Luanda,"Cuba, port unspecified",307,277,,,
+1839,1868,Felicidade (a) Jacinto,"Lagos, Onim","Cuba, port unspecified",490,444,,,
+1839,1869,Elisa,Rio Pongo,"Cuba, port unspecified",132,119,,14,
+1839,1870,Especulador,Benguela,Rio de Janeiro,304,278,,38,14
+1839,1871,Ganges,Quilimane,Rio de Janeiro,463,419,,,14
+1839,1872,Carolina,Ambriz,Rio de Janeiro,238,214,,39,
+1839,1873,Leal,Ambriz,Rio de Janeiro,402,364,,158,
+1839,1874,Casualidade,Ambriz,Guanimar,540,489,,,
+1839,1875,Amable Salomé,"Africa, port unspecified","Cuba, port unspecified",353,318,,,
+1839,1876,Formosa,"Africa, port unspecified","Cuba, port unspecified",367,330,,,
+1839,1877,Frutuosa,"Africa, port unspecified",Canasí,128,115,,,
+1839,1878,Júlia,"Whydah, Ouidah",São Sebastião,299,273,,,
+1839,1879,Três Corações,Luanda,Rio de Janeiro,284,250,,,
+1839,1880,Lísia,Luanda,Ponta Negro,462,419,,,
+1839,1881,Silêncio,Inhambane,Campos,482,437,,,
+1839,1882,Ninfa,Luanda,Taipu,391,352,,,
+1839,1883,Esperança,Mozambique,Ilha Grande,806,730,,,
+1839,1884,Maria Carlota,Luanda,Ilha Grande,675,612,,,
+1839,1885,Aventureiro,Mozambique,Macaé,754,683,,,
+1839,1886,Relâmpago,Congo River,Ponta Negro,717,650,,,
+1839,1887,Duque de Vitória,Luanda,Ilha Grande,471,427,,,
+1839,1888,D Manoel de Portugal,Quilimane,Campos,788,714,,,
+1839,1889,Isabel,Luanda,Paranaguá,886,779,,,
+1839,1890,Resolução,Mozambique,Paranaguá,831,753,,,
+1839,1891,Raimundo Primeiro,Luanda,São Sebastião,463,413,,,
+1839,1892,Dois Irmãos,Luanda,Rio de Janeiro,215,195,,,
+1839,1893,Dois de Fevereiro,Luanda,Ponta Negro,457,414,,,
+1839,1894,Nereida,Luanda,Ponta Negro,338,304,,,
+1839,1895,Dois Irmãos,Cabinda,Ilha Grande,640,580,,,
+1839,1896,Portuense,Cabinda,Ilha Grande,584,521,,,
+1839,1897,Augerona,Luanda,Rio de Janeiro,331,298,,,
+1839,1898,Doze de Outubro,Mozambique,Rio de Janeiro,452,403,,,
+1839,1899,Carolina,Quilimane,Paranaguá,744,698,46,,
+1839,1900,Bom Jesus,"Africa, port unspecified",Mangaratiba,335,300,,,
+1839,1901,Jeová,Luanda,Macaé,556,504,,,
+1839,1902,Oito de Dezembro,Luanda,Mangaratiba,89,80,,,
+1839,1903,Amizade Constante,Quilimane,Ilha Grande,442,400,,,
+1839,1904,Veloz,Luanda,Rio de Janeiro,469,425,,,
+1839,1905,Diligência,Luanda,Ponta Negro,429,389,,,
+1839,1906,Emília,Luanda,Campos,717,650,,,
+1839,1907,Congresso,Benguela,Rio de Janeiro,351,314,,,
+1839,1908,Ulisses,Luanda,Campos,574,520,,,
+1839,1909,Josefina,Benguela,Rio de Janeiro,313,294,,,
+1839,1910,Tentador,Luanda,Rio de Janeiro,367,327,,,
+1839,1911,Constância,Quilimane,Campos,681,617,,,
+1839,1912,Júpiter,Cabinda,Rio de Janeiro,378,340,,,
+1839,1913,Rosa,Mozambique,Campos,673,610,,,
+1839,1914,Belona,Congo River,Rio de Janeiro,397,357,,,
+1839,1915,Adamastor,Quilimane,Baía de Sepetiba,634,574,,,
+1839,1916,S Domingos Enéas,Luanda,Rio de Janeiro,320,290,,,
+1839,1917,Comodoro,Mozambique,Rio de Janeiro,773,700,,,
+1839,1918,Palas,Luanda,Rio de Janeiro,368,328,,,
+1839,1919,Esperança,Cabinda,Campos,415,370,,,
+1839,1920,Amélia,Mozambique,Cananéia,662,600,,,
+1839,1921,Nova Sociedade,Benguela,Rio de Janeiro,524,475,,,
+1839,1922,Dois de Abril,Congo River,Ilha Grande,379,339,,,
+1839,1923,Valoroso,Luanda,Rio de Janeiro,309,280,,,
+1839,1924,Florinda da África,Benguela,Paranaguá,363,324,,,
+1839,1925,Coringa,Luanda,"Pernambuco, place unspecified",376,335,,,14
+1839,1926,Livramento (a) Juramento,Luanda,"Pernambuco, place unspecified",307,277,,,14
+1839,1927,Maria Rita,Ambriz,"Pernambuco, place unspecified",376,335,,,20
+1839,1928,S José,Luanda,"Pernambuco, place unspecified",307,277,,,11
+1839,1929,Tindal (a) Quindal,Luanda,"Pernambuco, place unspecified",307,277,,,13
+1839,1930,Vinte e Quatro de Julho,Mozambique,"Pernambuco, place unspecified",490,444,,,19
+1839,1931,Bonsucesso,Luanda,"Pernambuco, place unspecified",307,277,,,15
+1839,1932,Doze de Janeiro,Luanda,"Pernambuco, place unspecified",307,277,,,16
+1839,1933,Cospe Fogo,Luanda,"Pernambuco, place unspecified",307,277,,,5
+1839,1934,Novo Abismo,Luanda,"Pernambuco, place unspecified",490,444,,,14
+1839,1935,Providence,Anomabu,"Pernambuco, place unspecified",150,135,,,14
+1839,1936,Lealdade,Cabinda,Maranhão,210,189,,45,13
+1839,1937,Amália,Mozambique,"Cuba, port unspecified",1040,840,200,84,
+1839,1938,Felicidade,"Lagos, Onim","Cuba, port unspecified",307,277,,64,
+1839,1939,Mary,Gallinhas,"Cuba, port unspecified",561,465,,59,
+1839,1940,Josefina,São Tomé,"Cuba, port unspecified",307,277,,58,
+1839,1941,Maria Segunda (a) Socorro,Mozambique,"Cuba, port unspecified",660,580,,64,
+1839,1942,Alexander,Princes Island,"Cuba, port unspecified",673,558,,87,
+1839,1948,D João de Castro,Mozambique,Ilha de Marambaia,497,450,,79,20
+1839,1949,Novo Destino,Quilimane,Campos,662,600,,72,12
+1839,1950,Generoso Feliz,Quilimane,Campos,424,384,,55,13
+1839,1951,Rosalina,Quilimane,Rio de Janeiro,411,369,,48,11
+1839,1952,Deposit,Ambriz,Rio de Janeiro,118,105,,29,9
+1839,1953,Flor de Luanda,Luanda,Ilha Grande,408,370,,28,15
+1839,1954,Mariana,Benguela,Rio de Janeiro,307,277,,20,13
+1839,1955,Flor de Luanda,Congo River,Macaé,353,320,,47,9
+1839,1956,Idália,Luanda,Rio de Janeiro,273,244,,98,13
+1839,1957,Quatro de Março,Quilimane,Mangaratiba,607,550,,60,15
+1839,1958,Umbelina,Benguela,Macaé,354,317,,39,12
+1839,1959,Fortuna da África,Quilimane,Macaé,474,429,,63,11
+1839,1960,NS da Conceição Felicidade do Brasil,Luanda,Rio de Janeiro,307,277,,77,13
+1839,1961,General Cabreira,Luanda,Rio de Janeiro,140,127,,57,12
+1839,1962,Doze de Outubro,Luanda,Ilha Grande,290,263,,63,12
+1839,1963,Sociedade,Benguela,Rio de Janeiro,490,444,,24,15
+1839,1964,Três de Junho,Benguela,Rio de Janeiro,257,242,,25,14
+1839,1965,Andorinha,Ambriz,São Sebastião,313,280,,39,11
+1839,1966,Ânimo Grande,Quilimane,Campos,651,590,,51,16
+1839,1967,Nova Madalena,São Tomé,"Bahia, place unspecified",307,277,,30,9
+1839,1968,NS da Conceição,São Tomé,"Bahia, place unspecified",307,277,,30,11
+1839,1969,S Antônio Vitorioso,"Lagos, Onim","Bahia, place unspecified",481,430,,44,20
+1839,1970,Margareth,"Whydah, Ouidah","Bahia, place unspecified",490,444,,29,11
+1839,1971,Luísa,"Lagos, Onim","Bahia, place unspecified",719,651,,38,10
+1839,1972,Duarte Felicidade,"Whydah, Ouidah","Bahia, place unspecified",376,335,,29,16
+1839,1973,Maria,"Lagos, Onim","Bahia, place unspecified",307,277,,33,14
+1839,1974,Tirso,"Lagos, Onim","Bahia, place unspecified",307,277,,47,7
+1839,1975,Dido,"Lagos, Onim","Bahia, place unspecified",490,444,,29,9
+1839,1976,Esperança,Luanda,"Pernambuco, place unspecified",307,277,,,13
+1839,1977,Esperança,Luanda,"Pernambuco, place unspecified",291,264,,,22
+1839,1978,Josefa,Luanda,"Pernambuco, place unspecified",490,444,,28,15
+1839,1979,NS da Conceição de Maria,Luanda,"Pernambuco, place unspecified",440,420,20,,19
+1839,1980,Ninfa,Luanda,Rio de Janeiro,667,600,,,
+1839,1981,Brilhante,Cabinda,Ilha Grande,473,425,,,
+1839,1982,Brilhante,Cabinda,Ilha Grande,473,425,,,
+1839,1983,Brilhante,Cabinda,Ilha Grande,473,425,,,
+1839,1984,Brilhante,Cabinda,Ilha Grande,473,425,,,
+1839,1985,Constante,Quilimane,Ilha Grande,828,750,,,
+1839,1986,Bonito Porto,Cabinda,Rio de Janeiro,334,300,,,
+1839,1987,Gioba,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro,706,640,,,
+1839,1988,Dois Amigos,Congo River,Rio de Janeiro,590,530,,,
+1839,1989,Asseiceira,Cabinda,Rio de Janeiro,530,480,,,
+1839,1990,Rio Zua,Cabinda,Ilha Grande,478,433,,,
+1839,1991,Rio Zua,Cabinda,Ilha Grande,478,433,,,
+1839,1992,Rio Zua,Cabinda,Ilha Grande,478,433,,,
+1839,1993,Paquete de Benguela,Benguela,Ilha Grande,335,300,,,
+1839,1994,Elisa,Luanda,Campos,773,700,,,
+1839,1995,Rio Zua,Quilimane,Ilha Grande,445,400,,,
+1839,1996,Leopoldina,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",662,600,,,
+1839,1997,Pompeo,Congo River,São Sebastião,552,500,,,
+1839,1998,Pompeo,Congo River,São Sebastião,497,450,,,
+1839,1999,Espadarte,Congo River,São Sebastião,667,600,,,
+1839,2000,Flor do Rio,Cabinda,Rio de Janeiro,389,350,,,
+1839,2001,Ascânio,Congo River,São Sebastião,334,300,,,
+1839,2002,Cingapura,Mozambique,Rio de Janeiro province,662,600,,,
+1839,2003,Sumar,Mozambique,São Sebastião,442,400,,,
+1839,2004,Recuperador,Benguela,Macaé,447,400,,,
+1839,2005,Saudade,Quilimane,São Sebastião,662,600,,,
+1839,2006,Mosca,Benguela,São Sebastião,333,300,,,
+1839,2007,Brilhante,Benguela,Cabo de Búzios,442,400,,,
+1839,2008,Nove Irmãs,Cabinda,Campos,438,400,,,
+1839,2009,Belona,Ambriz,São Sebastião,333,300,,,
+1839,2010,General Cabreira,Luanda,Taipu,397,360,,,
+1839,2011,Tindal,Luanda,"Americas, region unspecified",289,260,,,13
+1839,2038,Ligeira,Benguela,Paranaguá,357,321,,,
+1839,2039,Resolução,Quilimane,Ilha de Marambaia,465,421,,,
+1835,2461,,Rio Pongo,,350,309,,,
+1835,2468,Sutil,Calabar,Freetown,335,228,107,40,
+1835,2470,Minerva,Calabar,Freetown,676,490,186,36,
+1835,2471,Iberia,Bonny,Freetown,313,305,8,29,
+1835,2472,Manoelita,Bonny,Freetown,387,375,12,23,
+1835,2473,Bienvenida,Gabon,Freetown,430,367,63,33,
+1835,2474,Numero Dos,Bonny,Freetown,160,143,17,27,
+1835,2477,Volador,Bonny,Freetown,487,440,47,19,
+1835,2479,Semiramis,Bonny,Freetown,477,431,46,36,29
+1835,2480,Argos,Bonny,Freetown,429,366,63,43,
+1835,2481,Conde de Los Andes,River Brass,Freetown,282,269,13,34,
+1835,2482,Norma,Bonny,Freetown,236,224,15,31,
+1835,2485,General Laborde,"Africa, port unspecified",Trinidad de Cuba,365,300,,,35
+1836,2486,Segunda Iberia,Rio Nun,Freetown,264,244,20,24,
+1836,2487,Isabella Segunda (a) Cuatra Estrella,Bonny,Freetown,374,332,42,34,
+1836,2488,Ligera,Rio Nun,Freetown,198,194,4,33,
+1836,2489,Vandolero (a) Estrella,New Calabar,Freetown,377,347,30,40,34
+1836,2490,Seis Hermanos,New Calabar,Freetown,190,174,16,26,22
+1836,2491,Gaceta,Grand Sestos,Freetown,227,223,4,,15
+1835,2492,General Manso,,,,,,,28
+1835,2493,Josefa,,,,,,,21
+1835,2494,Vitorina,,,,,,,25
+1835,2495,Tres Tomasas,,,,,,,18
+1836,2496,Rosarito,,,,,,,23
+1836,2497,Atafa Primo,,,,,,,13
+1836,2498,Zema,,,,,,,17
+1836,2499,Matilde,,,,,,,23
+1836,2500,Felicia,Bonny,Freetown,425,359,66,31,25
+1836,2502,Explorador,,,,,,,29
+1836,2503,Golondrina,,,,,,,24
+1836,2504,Luisa,,,,,,,
+1836,2505,Tridente,,,,,,,29
+1836,2506,Cazador Santurzano,,,,,,,
+1836,2507,Feliz Vascongada,,,,,,,
+1836,2508,Diligência,,,,,,,34
+1836,2509,Eliza,,,,,,,26
+1836,2510,Maria Manuela,,,,,,,21
+1836,2511,Crioulo,Grand Bassa,Nassau,325,307,18,,19
+1836,2512,Joven Carolina,Calabar,Freetown,421,388,33,22,23
+1836,2513,Mariposa,,,,,,,
+1836,2514,Joven Maria,,,,,,,
+1836,2515,Galana Josefa,,,,,,,23
+1836,2516,General Mina,,,,,,,21
+1836,2517,Dos Hermanos (a) Numeros dos,,,,,,,
+1836,2518,Mismo (a) Sentinela,,,,,,,
+1836,2519,Famosa Primeira,,,,,,,
+1836,2520,Atalaya,Bonny,Freetown,121,93,28,29,
+1836,2521,Cantabra,,,,,,,19
+1836,2522,Luisita,"Africa, port unspecified",Havana,535,440,,,
+1836,2523,Luisita,,,,,,,25
+1836,2524,Olímpia,Cameroons River,Freetown,284,259,25,33,20
+1836,2525,Feliz,Bonny,Freetown,591,490,101,27,40
+1836,2526,Esperança,Bights,"Bahia, place unspecified",352,325,,,
+1836,2527,Esperança,Bonny,Freetown,438,403,35,23,26
+1836,2528,Vitória,Gallinhas,"Americas, port unspecified",278,245,,,
+1836,2529,Vitória,Calabar,Freetown,380,319,61,25,
+1836,2530,Vigilante,Calabar,Nassau,321,231,90,59,
+1836,2531,Quatro de Abril,"Whydah, Ouidah",Freetown,481,463,18,29,28
+1836,2533,,Rio Nunez,Matanzas,300,265,,,
+1836,2534,,Rio Nunez,,278,246,,,
+1836,2535,Paquete da Madeira,Mozambique,,200,164,,,
+1836,2536,Esperança,Benguela,Trinidad de Cuba,401,367,,,36
+1836,2537,San Nicolas,,,,,,,26
+1837,2538,Schemer,Rio Pongo,Freetown,49,49,0,,10
+1836,2539,Experimento,,,,,,,15
+1837,2540,Gata,Bonny,Freetown,111,103,8,29,12
+1837,2541,Descubierta,,,,,,,12
+1837,2542,Cinco Amigos,,,,,,,19
+1837,2543,Dolores,Calabar,Freetown,315,293,22,25,20
+1837,2544,General Ricafort,,,,,,,20
+1837,2545,Paquete de Cabo Verde,Bonny,Freetown,576,466,110,40,32
+1837,2546,Esperança,Bonny,Freetown,108,88,20,44,40
+1837,2547,Temerário,Bonny,Freetown,352,254,98,33,32
+1837,2548,Josefina,"Lagos, Onim",Freetown,350,346,4,26,20
+1837,2549,Latona,"Whydah, Ouidah",Freetown,325,321,4,33,18
+1837,2551,Cobra da África,Bimbia,Freetown,164,110,54,18,20
+1837,2552,Flor do Tejo,Gallinhas,Nassau,465,417,48,,26
+1837,2553,Primorosa,Bonny,Freetown,189,143,46,24,16
+1837,2554,Víbora de Cabo Verde,Bimbia,Freetown,269,223,46,40,
+1837,2555,D Francisco,"Whydah, Ouidah","Barbados, place unspecified",439,433,6,52,
+1837,2556,Florida,"Lagos, Onim","Grenada, place unspecified",296,280,16,46,
+1836,2557,Florida,"Lagos, Onim","Cuba, port unspecified",352,335,,,
+1837,2558,Felicidade,Bonny,Freetown,335,286,49,29,26
+1837,2559,Traga Milhas,Sherbro,Antonia,324,280,44,46,
+1837,2560,Ligeira,River Brass,Freetown,313,290,23,34,
+1836,2561,Nova União,"Africa, port unspecified","Cuba, port unspecified",213,175,,,
+1836,2562,Dois Irmãos,"Africa, port unspecified","Cuba, port unspecified",207,170,,,
+1836,2563,Isabel,"Africa, port unspecified","Cuba, port unspecified",571,470,,,
+1836,2564,Isabel Segunda (a) Felicidad,"Africa, port unspecified","Cuba, port unspecified",698,593,,,
+1838,2565,Dido,"Lagos, Onim","Bahia, place unspecified",575,570,5,,
+1838,2566,Escorpião,"Africa, port unspecified",Santiago de Cuba,235,137,98,,
+1838,2567,Constituição,,,,,,,39
+1838,2568,Ligeira,,,,,,,14
+1838,2569,Elisa,,,,,,,14
+1838,2570,Ramoncito (a) Fausta (a) Josephina,,,,,,,14
+1838,2571,Diligente,,,,,,,38
+1838,2572,Paquete Feliz,Bonny,Freetown,200,187,13,18,26
+1838,2573,Feliz,Gallinhas,Kingston,361,324,,,17
+1836,2576,Escorpião (a) Voador,Gallinhas,"Cuba, port unspecified",381,345,,,
+1838,2578,Esperança,"Africa, port unspecified","Cuba, south coast",478,430,,,
+1838,2579,Enriqueta,"Africa, port unspecified","Cuba, south coast",144,130,,,
+1838,2580,Princesa Africana,Sherbro,Freetown,222,222,0,,17
+1837,2581,Arrogante (a) Urraca,Gallinhas,"Jamaica, place unspecified",473,332,141,37,29
+1837,2582,Isabelita,Gallinhas,Kingston,186,159,27,,18
+1837,2583,Ingemane (a) Lince,Rio Nunez,Nassau,85,79,3,,12
+1838,2584,Felicidade,Calabar,Freetown,559,425,134,31,
+1837,2585,Dois Irmãos,River Brass,Havana,277,234,,,20
+1838,2586,Dois Irmãos,Bonny,Freetown,306,245,66,40,
+1838,2587,Prova,Calabar,Freetown,225,205,24,20,23
+1838,2588,Diligente (a) Vingador,"Lagos, Onim",Nassau,520,475,45,69,
+1838,2590,Cirse,,,,,,,13
+1838,2591,Veterano (a) Veloz,,,,,,,33
+1839,2593,Tejo,,,,,,,27
+1839,2594,Sereia,,,,,,,17
+1839,2595,Bragança,,,,,,,32
+1839,2596,Rebecca,,,,,,,12
+1837,2597,Rebecca,Gallinhas,"Cuba, port unspecified",592,503,,,
+1839,2598,Violante (a) Mary Cassard,Sherbro,Freetown,191,191,0,67,13
+1839,2599,Gertrudes,Sherbro,Freetown,168,168,0,,14
+1838,2600,Prova,Rio Nun,Freetown,332,295,37,47,20
+1838,2601,Dulcinéa,"Lagos, Onim",Freetown,253,250,4,,16
+1838,2602,Liberal,"Whydah, Ouidah",Freetown,591,583,8,29,26
+1838,2603,Empreendedor,Gallinhas,Freetown,467,465,9,,
+1839,2604,Madalena,River Brass,Freetown,320,308,12,24,27
+1838,2605,Rosália Habanera,Grand Sestos,"British Honduras, port unspecified",305,223,82,47,
+1839,2606,Lavradora,Rio Pongo,Freetown,251,199,52,,14
+1839,2607,Tres Emanuel (a) Maria Segund,Congo River,,401,367,,,20
+1838,2609,Maria,,,,,,,
+1838,2610,Veloz,,,,,,,20
+1838,2611,Sin Igual,"Lagos, Onim",,328,279,49,,
+1839,2612,Ontario,Rio Nun,Freetown,220,200,20,22,9
+1839,2613,Florida,,,,,,,
+1839,2614,Hazard,,,,,,,
+1839,2615,Eagle,,,,,,,34
+1838,2616,Isabel,,,,,,,
+1838,2617,Amália,,,,,,,22
+1838,2618,Vitória,,,,,,,17
+1838,2619,Ligeiro,,,,,,,
+1838,2620,Dois Amigos,,,,,,,23
+1838,2621,Vitória,,,,,,,37
+1839,2622,Merced,Grand Sestos,Freetown,1,1,,,17
+1839,2623,Maria Teresa,,,,,,,23
+1839,2624,Matilde,,,,,,,32
+1839,2625,Constituição,"Lagos, Onim",Freetown,344,338,6,18,19
+1839,2626,Mary,,,,,,,
+1839,2627,Catherine,"Lagos, Onim",,,,,,24
+1839,2629,Fortuna,,,,,,,42
+1839,2630,Fortuna,"Lagos, Onim",,352,335,,,
+1839,2631,Madalena,,,,,,,13
+1839,2632,Lavadeira,,,,,,,20
+1839,2635,Liberal,,,,,,,26
+1839,2636,Ligeira,,,,,,,19
+1839,2637,Sete de Abril (a) Mary Cushing,"Lagos, Onim",Freetown,424,427,7,25,
+1839,2638,Brilhante,,,,,,,20
+1839,2639,Dois Amigos,,,,,,,18
+1838,2640,Triunfante,Gallinhas,Trinidad de Cuba,278,245,,,
+1839,2641,Josefina,,,,,,,15
+1838,2642,NS da Vitória,"Lagos, Onim",Santiago de Cuba,324,303,,,25
+1839,2644,Wyoming,,,,,,,
+1839,2650,Casualidade,Sherbro,Freetown,88,88,0,,14
+1837,2651,Casualidade,Sherbro,"Puerto Rico, port unspecified",278,245,,,
+1838,2652,Casualidade,Sherbro,"Puerto Rico, port unspecified",278,245,,,14
+1839,2665,Perry Spencer,,,,,,,
+1839,2666,Iago (a) Caroline,,,,,,,18
+1839,2667,Constância,,,,,,,
+1839,2668,Si,Gallinhas,Freetown,360,358,2,,37
+1839,2669,Vigilante,,,,,,,
+1839,2670,Catalana,,,,,,,
+1839,2671,Rainha dos Anjos,,,,,,,15
+1839,2672,Santiago,,,,,,,23
+1839,2673,Vitória da Liberdade,,,,,,,18
+1839,2674,Jack Wilding,,,,,,,17
+1839,2676,Emprendedor (a) Boca Negra,,,,,,,26
+1839,2677,Cristiano (a) Carranzano,,,,,,,16
+1839,2678,Bela Fiorentina,,,,,,,26
+1839,2679,Matilde,,,,,,,28
+1839,2682,Clara,,,,,,,
+1839,2695,Ulisses,"Bight of Benin, place unspecified",Kingston,648,533,,,
+1839,2705,Firme,"Africa, port unspecified","Cuba, port unspecified",535,440,,,
+1839,2706,Firme,"Africa, port unspecified","Cuba, port unspecified",535,440,,,
+1839,2906,Jeová,,,,,,,20
+1835,3047,Atrevido,"Whydah, Ouidah",Freetown,500,483,17,28,21
+1835,3048,Teresa,"Lagos, Onim",Freetown,214,202,12,37,15
+1835,3049,Legítimo Africano,"Whydah, Ouidah",Freetown,190,186,4,48,
+1835,3060,Duque de Bragança,Luanda,Parati,437,400,,,
+1835,3061,Manoelita,"Africa, port unspecified","Bahia, place unspecified",352,325,,,33
+1835,3062,Explorador,Loango,"Bahia, place unspecified",352,325,,73,
+1835,3064,Mosca,"Africa, port unspecified","Bahia, place unspecified",352,325,,,
+1836,3065,Mosca,,,,,,,19
+1836,3066,Esperança,Bonny,Freetown,477,430,47,26,28
+1836,3067,Mindelo,Cameroons River,Freetown,268,258,10,29,20
+1836,3068,Veloz,"Lagos, Onim",Freetown,526,469,63,18,20
+1837,3069,Lafayette,"Lagos, Onim",Freetown,449,441,8,39,18
+1837,3070,Providência,"Lagos, Onim",Freetown,197,192,5,30,17
+1837,3071,Amélia,"Lagos, Onim",Freetown,356,346,10,16,19
+1837,3072,Incompreensível,Mozambique,Freetown,785,596,189,73,22
+1837,3073,Deixa Falar,"Lagos, Onim",Freetown,210,186,24,42,11
+1838,3074,Gratidão,"Lagos, Onim",Freetown,453,380,73,49,25
+1837,3075,Camões,Benin,Freetown,138,116,22,43,20
+1837,3077,Veloz,,,,,,,21
+1839,3080,Empreendedor,,,,,,,32
+1836,3082,Empreendedor,"Whydah, Ouidah","Bahia, place unspecified",352,325,,,
+1837,3083,Empreendedor,"Whydah, Ouidah","Bahia, place unspecified",352,325,,22,
+1839,3085,Maria Carlota,,,,,,,22
+1839,3086,Recuperador,,,,,,,17
+1839,3087,Pompeo,,,,,,,
+1839,3088,NS da Conceição,,,,,,,12
+1839,3089,Júlia,,,,,,,16
+1838,3090,Sete de Abril (a) Mary Cushing,Bights,"Bahia, place unspecified",388,362,,,
+1839,3091,Jacuí,Novo Redondo,Freetown,203,197,6,23,12
+1839,3092,Simpatia,,,,,,,14
+1839,3093,Intrépido,,,,,,,38
+1839,3094,Sociedade Feliz,,,,,,,15
+1839,3095,Calíope,,,,,,,24
+1839,3096,Augusto,,,,,,,36
+1839,3099,Firmeza,,,,,,,33
+1839,3100,Pampeiro,,,,,,,26
+1839,3101,Golfinho,,,,,,,17
+1839,3102,Destemida,"Lagos, Onim",Freetown,32,29,,42,21
+1839,3152,Escorpião,Quilimane,Cape of Good Hope,716,695,21,13,
+1839,3163,Angerona,,,,,,,16
+1839,3164,Netuno,,,,,,,
+1836,3286,Alert,Mozambique,,617,542,,,50
+1836,3287,Drogenese,Mozambique,,490,444,,,
+1837,3289,Invincible,"Africa, port unspecified","Bahamas, port unspecified",200,50,150,34,
+1835,3292,,Luanda,Pará,554,507,,,
+1839,3299,Veloz,,,,,,,16
+1839,3303,Dois Irmãos,,,,,,,
+1839,3304,Bonfim,,,,,,,
+1839,3305,Vigilante,,,,,,,
+1839,3306,Governador Vidal,,,,,,,
+1836,5003,Lorencita,"Africa, port unspecified",Havana,490,444,,,
+1836,5004,Agripina,"Africa, port unspecified",Havana,490,444,,,
+1838,5046,Estrella,River Brass,"Cuba, port unspecified",300,1,299,,
+1838,5051,D Pedro,Cape Verde Islands,Maranhão,138,122,,,
+1838,5081,Jacuí,Novo Redondo,Macaé,411,369,,32,
+1839,5083,Goliubchick,,,,,,,
+1837,5501,Esperança,Luanda,"Bahamas, port unspecified",240,220,,,
+1838,5502,Washington,"Africa, port unspecified","Bahamas, port unspecified",535,440,,,
+1837,34697,Voltigeur,"Africa, port unspecified","Dominica, place unspecified",489,443,,,
+1835,39037,Belencita,"Africa, port unspecified",Havana,411,369,,,
+1838,39038,Emprendedor (a) Boca Negra,"Africa, port unspecified",Havana,278,250,,,
+1839,39039,Brillante,"Africa, port unspecified","Cuba, port unspecified",411,369,,,
+1839,39040,Dos Amigos (a) Constancia,,,,,,,
+1835,39049,Mercedita,Cabinda,Havana,411,369,,,
+1838,39058,Esplorador,Mozambique,Havana,560,200,360,,
+1838,39093,Diogenes,Mozambique,,490,444,,,
+1836,40269,Recuperador,Benguela,Rio de Janeiro province,490,444,,,
+1836,40274,Heroína,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro,307,277,,,11
+1837,41846,Brilhante,Mozambique,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,214,15
+1837,41849,D Manoel de Portugal,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,46,13
+1836,41862,Amizade Feliz,Benguela,Rio de Janeiro province,257,242,,,
+1836,41863,Ligeira,Benguela,Rio de Janeiro province,307,277,,,
+1836,41864,Pensamento Feliz,Benguela,Rio de Janeiro province,257,242,,,
+1836,41865,União Feliz,Benguela,Rio de Janeiro province,118,105,,,
+1836,41866,Zenóbia,Benguela,Rio de Janeiro province,257,242,,,
+1837,41867,Especulador,Benguela,Rio de Janeiro province,118,105,,,
+1837,41868,Júlia,Benguela,Rio de Janeiro province,257,242,,,
+1837,41869,Ligeiro,Benguela,Rio de Janeiro province,118,105,,,
+1837,41870,Palanque,Benguela,Rio de Janeiro province,118,105,,,
+1837,41871,Reis,Benguela,Rio de Janeiro province,118,105,,,
+1838,41872,Congresso,Benguela,Rio de Janeiro province,118,105,,,
+1838,41873,Experiência,Benguela,Rio de Janeiro province,490,444,,,
+1838,41874,Flor da África,Benguela,Rio de Janeiro province,118,105,,,
+1838,41875,Júlia,Benguela,Rio de Janeiro province,257,242,,,
+1838,41876,Ligeiro,Benguela,Rio de Janeiro province,118,105,,,
+1838,41877,Mariana,Benguela,Rio de Janeiro province,307,277,,,
+1838,41878,Rio Tâmega,Benguela,Rio de Janeiro province,257,242,,,
+1835,41879,Ativo,Benguela,Rio de Janeiro province,118,105,,,
+1835,41880,Rio Tâmega,Benguela,Rio de Janeiro province,257,242,,,
+1837,41884,Feliz Viajante,Ambriz,Rio de Janeiro province,376,335,,,
+1839,41891,Esperança,Quilimane,Campos,733,600,,,
+1839,46253,Maria Virgínia,,,17,15,,,
+1837,46258,Flor de África,Luanda,,490,444,,28,12
+1837,46259,Ascânio,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,55,14
+1837,46260,Especulador,Cape Verde Islands,Rio de Janeiro,490,444,,17,13
+1836,46261,Feliz Intriga,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro province,118,105,,,
+1836,46262,Tentador,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,53,12
+1836,46263,Rio Mondego,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,67,12
+1836,46264,Quatorze de Julho,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",307,277,,67,13
+1836,46265,Pérola,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,39,14
+1836,46266,Júlia,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",307,277,,53,14
+1836,46267,Jovem Africana,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,51,14
+1836,46268,Fortuna de África,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,51,13
+1836,46270,Dublin,Mozambique,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,122,22
+1836,46271,Adamastor,Quilimane,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,71,18
+1835,46272,Leão,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,51,14
+1835,46273,Intriga,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,,
+1835,46274,Duquesa de Bragança,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,73,11
+1835,46276,Tentador,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,40,12
+1835,46277,Nereida,Luanda,"Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,76,15
+1835,46278,Aventureiro,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,74,14
+1835,46279,Caridade,"West Central Africa and St. Helena, port unspecified","Rio de Janeiro, Sao Paulo, Santa Catarina",490,444,,48,12
+1839,46449,Dois Amigos,Mozambique,Rio de Janeiro,514,421,,,
+1839,46534,Veloz,"Africa, port unspecified",Havana,284,270,,,
+1838,46535,Comus,"Africa, port unspecified",Havana,475,436,,,
+1838,46536,Anteus,"Africa, port unspecified",Havana,129,114,,,
+1836,46537,Ricomar,"Africa, port unspecified",Havana,282,250,32,,
+1836,46538,Aguila Vengadora,"Africa, port unspecified",Havana,411,369,,,
+1835,46539,NS del Coro,"Africa, port unspecified",Havana,690,563,,,
+1835,46540,Juan de Dios (a) Vascongada,"Africa, port unspecified",Havana,690,563,,,
+1836,46676,Principeño,"Africa, port unspecified",Havana,1265,1004,,,
+1839,46677,Diana,"Africa, port unspecified",Havana,284,270,,,
+1839,46678,Constancia,"Africa, port unspecified",Havana,411,369,,,
+1838,46679,Principeño,"Africa, port unspecified",Havana,1265,1004,,,
+1839,46763,Árabe,Quilimane,,490,444,,,
+1836,47276,Experiência,Benguela,Rio de Janeiro province,490,444,,,
+1836,47277,Nova Sorte,Benguela,Rio de Janeiro,490,444,,,
+1837,47278,Experiência,Benguela,Rio de Janeiro province,490,444,,,
+1837,47280,Pensamento Feliz,Benguela,Rio de Janeiro province,118,105,,,
+1836,47284,Triunfo da Inveja,Benguela,Rio de Janeiro province,257,242,,,
+1839,47345,Pernambuco,Luanda,"Pernambuco, place unspecified",490,444,,,
+1838,47346,Nereida,Luanda,"Pernambuco, place unspecified",490,444,,,
+1839,48625,Experiência,Benguela,Rio de Janeiro,490,444,,,
+1839,48631,Felícia,Luanda,,572,517,,,
+1839,48634,Maria Rita,Ambriz,,490,444,,,
+1835,51857,Tibério,"Lagos, Onim","Bahia, place unspecified",490,444,,40,19
+1836,51858,Tibério,"Costa da Mina, place unspecified","Bahia, place unspecified",490,444,,33,19
+1836,900142,Maria,Benguela,Rio de Janeiro,490,444,,,
+1836,900143,Sociedade,Benguela,Rio de Janeiro,490,444,,,
+1837,900144,Boa Viagem,São Tomé or Princes Island,"Bahia, place unspecified",257,242,,,
+1837,900145,Doze de Novembro,"Africa, port unspecified",Rio de Janeiro,118,105,,,
+1837,900146,Mariana,Benguela,Rio de Janeiro,307,277,,,
+1837,900147,Saudade,Benguela,Rio de Janeiro,449,421,,,
+1837,900148,Treze de Junho,Benguela,Rio de Janeiro,257,242,,,
+1837,900149,Treze de Junho,Benguela,Rio de Janeiro,257,242,,,
+1838,900150,Bela Figueirense,"Africa, port unspecified","Bahia, place unspecified",490,444,,,
+1838,900151,Mariana,Benguela,Rio de Janeiro,307,277,,,
+1838,900152,Nereida,"West Central Africa and St. Helena, port unspecified",Rio de Janeiro,490,444,,,
+1839,900153,D João de Castro,Mozambique,Ilha de Marambaia,490,444,,,
+1839,900155,Josefa,Benguela,Rio de Janeiro,376,335,,,
+1839,900158,Minerva,Benguela,Rio de Janeiro,257,242,,,
+1839,900159,Nereida,Mozambique,Rio de Janeiro,514,421,,,
+1839,900160,Onze de Março,"West Central Africa and St. Helena, port unspecified",,490,444,,,
+1839,900161,Paquete de Luanda,"West Central Africa and St. Helena, port unspecified",,490,444,,,
+1839,900163,Socorro (a) D Maria Segunda,Mozambique,"Cuba, port unspecified",514,421,,,
+1839,900164,Veloz,Mozambique,Rio de Janeiro,514,421,,,
