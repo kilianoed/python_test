@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib.pyplot
+seaborn
+spacy
+displacy
+transformers
+-pipeline
+--model: microsoft/beit-base-patch16-224-pt22k-ft22k
+--image-classification
+
