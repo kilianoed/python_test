@@ -3,9 +3,9 @@ numpy
 matplotlib.pyplot
 seaborn
 spacy
-displacy
+pprint
+cv2
+pybboxes
 transformers
--pipeline
---model: microsoft/beit-base-patch16-224-pt22k-ft22k
---image-classification
-
+--model: Visual-Attention-Network/van-large
+--model: hustvl/yolos-base
